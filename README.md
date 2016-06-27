@@ -1,3 +1,2 @@
-# gitstudy
+# gitstudy(master edit)
 
-1. this is first branch.
